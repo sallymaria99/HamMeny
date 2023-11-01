@@ -9,6 +9,11 @@ body {
   background-color: lightcoral;
 }
 
+.material-symbols-outlined {
+  padding-left: 1rem;
+  padding-right: 5rem;
+}
+
 /* Utility classes */
 .m0 {
   margin: 0;
